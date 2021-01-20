@@ -1,4 +1,5 @@
-/*!
+ /* eslint-disable */
+ /*!
 
 Holder - client side image placeholders
 Version 2.9.6+fblyy

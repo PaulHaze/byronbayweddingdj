@@ -1,3 +1,4 @@
+/* eslint-disable */
 window.scwAjaxPortfolioPlugin = window.scwAjaxPortfolioPlugin || {};
 
 let $portfolioAjaxItems			= $('.portfolio-ajax').find('.portfolio-item'),
