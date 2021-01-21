@@ -5,28 +5,28 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
-#hero {
+#home {
   background-color: rgb(137, 207, 220);
 }
 
 #about {
-	background-color: rgb(101, 187, 142);
+  background-color: rgb(101, 187, 142);
 }
 
 #services {
-	background-color: rgb(180, 187, 101);
+  background-color: rgb(180, 187, 101);
 }
 
 #testimonials {
-	background-color: rgb(187, 128, 101);
+  background-color: rgb(187, 128, 101);
 }
 
 #gallery {
-	background-color: rgb(203, 118, 182);
+  background-color: rgb(203, 118, 182);
 }
 
 #contact {
-	background-color: rgb(122, 89, 221);
+  background-color: rgb(122, 89, 221);
 }
 
 .center {
