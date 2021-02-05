@@ -5,13 +5,13 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
-#home {
+/* #home {
   background-color: rgb(137, 207, 220);
 }
 
 #about {
   background-color: rgb(101, 187, 142);
-}
+} */
 
 #services {
   background-color: rgb(180, 187, 101);
@@ -101,7 +101,7 @@
   font-size: 15px;
   font-weight: 300;
   color: #666;
-  line-height: 16px;
+  line-height: 2;
 }
 
 .story-box .story-box-info .story-box-content a {
