@@ -22,7 +22,9 @@
 } */
 
 #gallery {
-  background-color: rgb(203, 118, 182);
+  background: url('../images/beav/gallery_bg.jpg') no-repeat top center;
+  background-size: contain;
+  background-repeat: repeat-y;
 }
 
 #contact {
