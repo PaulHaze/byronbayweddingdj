@@ -239,7 +239,7 @@ input.switch-toggle-round + label::after {
 }
 
 .testimonials-carousel .owl-item {
-  opacity: 0.6;
+  opacity: 0.8;
   transition: transform 0.3s ease;
   transform: scale(0.8);
 }
@@ -251,7 +251,7 @@ input.switch-toggle-round + label::after {
 
 .testimonial {
   border: 0;
-  box-shadow: 0 0 35px rgba(140, 152, 164, 0.2);
+  box-shadow: 0 0 35px rgba(140, 152, 164, 0.4);
   border-radius: 0.25rem;
   padding: 25px;
 }
@@ -266,7 +266,8 @@ input.switch-toggle-round + label::after {
   text-align: center;
   font-style: normal;
   font-family: var(--fontfamily, 'Poppins', sans-serif);
-  font-size: var(--basefontsize, 16px);
+  /* font-size: var(--basefontsize, 16px); */
+  font-size: 20px;
 }
 
 .testi-meta {

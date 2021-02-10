@@ -124,19 +124,19 @@ li {
 }
 
 ::selection {
-  background: #1abc9c;
+  background: #555555;
   color: #fff;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background: #1abc9c; /* Firefox */
+  background: #555555; /* Firefox */
   color: #fff;
   text-shadow: none;
 }
 
 ::-webkit-selection {
-  background: #1abc9c; /* Safari */
+  background: #555555; /* Safari */
   color: #fff;
   text-shadow: none;
 }
@@ -13915,9 +13915,9 @@ blockquote.float-right {
   width: 8px;
   height: 8px;
   margin: 30px 4px 0 4px;
-  opacity: 0.5;
+  opacity: 0.3;
   border-radius: 50%;
-  background-color: #1abc9c;
+  background-color: #000000;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
