@@ -12784,6 +12784,7 @@ body:not(.device-touch) .clients-grid .grid-item a {
   margin-bottom: 0;
   font-family: 'PT Serif', serif;
   font-style: italic;
+  font-size: 2rem;
 }
 
 .testi-content p::before,
